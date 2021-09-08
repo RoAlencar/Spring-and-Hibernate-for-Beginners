@@ -10,7 +10,7 @@
     <!-- Define your beans here -->
     
     <bean id="myCoach"
-         class="br.com.raxinformatica.springdemo.baseballCoach">
+         class="br.com.raxinformatica.springdemo.basketballCoach">
     </bean>
 </beans>
 
